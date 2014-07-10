@@ -57,7 +57,7 @@
        [:h1
         [:span.logo-try "Try"] " "
         [:span.logo-clojure "Clo" [:em "j"] "ure"]]]
-      [:div#container
+      [:div#container.clearfix
        [:div#console.console]
        [:div#buttons
         [:a#links.buttons "links"]
